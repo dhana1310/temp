@@ -1,0 +1,14 @@
+
+1. unstaged(untracked) - red
+
+2. staged(tracked) - green
+
+3. committed.
+
+4. remote repository
+
+
+--------------------
+
+
+git checkout branchname
