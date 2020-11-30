@@ -11,4 +11,4 @@
 --------------------
 
 
-git checkout branchname
+git checkout -b branchname
